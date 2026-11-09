@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.adurage.akurustudio",
       "sha256_cert_fingerprints": [
+        "10:F9:C5:64:33:2A:78:73:BE:60:DA:E6:03:9E:C3:3C:45:AA:7D:CF:F1:12:B4:50:1A:9A:2D:0D:F2:4E:1C:84",
         "REPLACE_WITH_SHA256_FROM_GOOGLE_PLAY_APP_SIGNING"
       ]
     }
